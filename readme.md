@@ -2,6 +2,10 @@
 
 ### Iniciar um projeto
 
+Clone o projeto
+
+```git clone git@github.com:rogeralbinoi/myboilerplate.git```
+
 Instale as dependências
 
 ``` npm install```
