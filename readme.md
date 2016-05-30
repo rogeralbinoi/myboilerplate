@@ -14,6 +14,12 @@ Rode a task sass para gerar a pasta dist
 
 ``` gulp sass ```
 
+Inicie o sass:watch
+
+``` gulp sass:watch```
+
+Agora só acessar **localhost:3000** e ser feliz
+
 ### tasks do gulp ###
 
 ``` gulp sass ```
