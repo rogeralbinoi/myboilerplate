@@ -2,15 +2,15 @@
 
 ### Iniciar um projeto
 
-** Instale as dependências **
+Instale as dependências
 
 ``` npm install```
 
-** Inicie o servidor de testes do express **
+Inicie o servidor de testes do express
 
 ``` npm start  ```
 
-** Rode a task sass para gerar a pasta dist **
+Rode a task sass para gerar a pasta dist
 
 ``` gulp sass ```
 
