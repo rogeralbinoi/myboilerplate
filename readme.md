@@ -1,5 +1,8 @@
 # My Boilerplate
 
+Para automatizar a criação de projetos com este boilerplate, utilize 
+[myboilerplate_cli](https://github.com/rogeralbinoi/myboilerplate_cli)
+
 ### Iniciar um projeto
 
 Clone o projeto
