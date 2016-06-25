@@ -13,7 +13,7 @@ Instale as dependências
 
 ``` npm install```
 
-Inicie o servidor de testes do express
+Inicie o servidor do express
 
 ``` npm start  ```
 
